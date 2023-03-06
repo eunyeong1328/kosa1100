@@ -1,0 +1,6 @@
+package co.kosa.controller;
+
+@RestCon
+public class HelloController {
+
+}
